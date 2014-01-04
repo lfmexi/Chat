@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1388678601 source:/home/luis/Cprojects/PracticaSopes1/Chat/main.c
+	<sys/shm.h>
+	<pthread.h>
+	<errno.h>
+	"estruct.h"
+
+1388678098 /home/luis/Cprojects/PracticaSopes1/Chat/estruct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<time.h>
+
+1388678305 source:/home/luis/Cprojects/PracticaSopes1/Chat/estruct.c
+	"estruct.h"
+
